@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/responsive_react_foodshop/static/css/main.7c8f28f7.chunk.css",
+    "main.js": "/responsive_react_foodshop/static/js/main.43ccbbdf.chunk.js",
+    "main.js.map": "/responsive_react_foodshop/static/js/main.43ccbbdf.chunk.js.map",
+    "runtime-main.js": "/responsive_react_foodshop/static/js/runtime-main.04e4357f.js",
+    "runtime-main.js.map": "/responsive_react_foodshop/static/js/runtime-main.04e4357f.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/responsive_react_foodshop/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7b4d1efa.chunk.js": "/responsive_react_foodshop/static/js/2.7b4d1efa.chunk.js",
+    "static/js/2.7b4d1efa.chunk.js.map": "/responsive_react_foodshop/static/js/2.7b4d1efa.chunk.js.map",
+    "index.html": "/responsive_react_foodshop/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/responsive_react_foodshop/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.7c8f28f7.chunk.css.map": "/responsive_react_foodshop/static/css/main.7c8f28f7.chunk.css.map",
+    "static/js/2.7b4d1efa.chunk.js.LICENSE.txt": "/responsive_react_foodshop/static/js/2.7b4d1efa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/responsive_react_foodshop/static/media/background.2d5a7ffb.jpg",
+    "static/media/dslr.33270845.jpg": "/responsive_react_foodshop/static/media/dslr.33270845.jpg",
+    "static/media/headphone.c1303754.jpg": "/responsive_react_foodshop/static/media/headphone.c1303754.jpg",
+    "static/media/iphone.d6eaa005.jpg": "/responsive_react_foodshop/static/media/iphone.d6eaa005.jpg",
+    "static/media/microphone.370b90b6.jpg": "/responsive_react_foodshop/static/media/microphone.370b90b6.jpg",
+    "static/media/perfume.49c9adbb.jpg": "/responsive_react_foodshop/static/media/perfume.49c9adbb.jpg",
+    "static/media/ring.5b725994.jpg": "/responsive_react_foodshop/static/media/ring.5b725994.jpg",
+    "static/media/shoes.f6c7ac02.jpg": "/responsive_react_foodshop/static/media/shoes.f6c7ac02.jpg",
+    "static/media/watch.851c44b2.jpg": "/responsive_react_foodshop/static/media/watch.851c44b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04e4357f.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7b4d1efa.chunk.js",
+    "static/css/main.7c8f28f7.chunk.css",
+    "static/js/main.43ccbbdf.chunk.js"
+  ]
+}
